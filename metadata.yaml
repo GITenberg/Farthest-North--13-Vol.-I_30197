@@ -1,0 +1,39 @@
+_repo: Farthest-North--13-Vol.-I_30197
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Sverdrup, Otto Neumann
+    birthdate: 1854
+    deathdate: &id001 1930
+    gutenberg_agent_id: '34438'
+    url: http://www.gutenberg.org/2009/agents/34438
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nansen, Fridtjof
+    aliases:
+    - Nansen, Frityof
+    - Nansen, Fridyof
+    birthdate: 1861
+    deathdate: *id001
+    gutenberg_agent_id: '34437'
+    url: http://www.gutenberg.org/2009/agents/34437
+    wikipedia: http://en.wikipedia.org/wiki/Fridtjof_Nansen
+description: ''
+gutenberg_issued: '2009-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Fram Expedition'
+- !lcsh 'Arctic regions'
+title: "Farthest North, Vol. I\r\nBeing the Record of a Voyage of Exploration of the\
+  \ Ship 'Fram' 1893-1896"
+url: http://www.gutenberg.org/ebooks/30197
